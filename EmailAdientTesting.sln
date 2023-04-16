@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailGmail", "MailGmail.csproj", "{29851584-4CBB-4708-8305-D33E4184E1E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailOutlook", "..\MailOutlook\MailOutlook.csproj", "{AF2A2BA0-3DA4-47CF-8BE4-DB8EB4B2F067}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29851584-4CBB-4708-8305-D33E4184E1E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29851584-4CBB-4708-8305-D33E4184E1E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29851584-4CBB-4708-8305-D33E4184E1E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29851584-4CBB-4708-8305-D33E4184E1E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF2A2BA0-3DA4-47CF-8BE4-DB8EB4B2F067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF2A2BA0-3DA4-47CF-8BE4-DB8EB4B2F067}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF2A2BA0-3DA4-47CF-8BE4-DB8EB4B2F067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF2A2BA0-3DA4-47CF-8BE4-DB8EB4B2F067}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61A49F8C-22C5-46BA-A6E1-0F6E7A69BA4C}
+	EndGlobalSection
+EndGlobal
